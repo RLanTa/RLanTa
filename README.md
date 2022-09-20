@@ -1,3 +1,5 @@
+
+hey there 👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/RLanTa) 
 [![Discord](https://badgen.net/badge/icon/rlantadev?icon=discord&label)](https://https://discord.com/GFcNxfq3mZ)
 
